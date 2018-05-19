@@ -118,7 +118,7 @@ view-restore gtk-leave-fullscreen stock_leave-fullscreen window_nofullscreen
 view-refresh stock-refresh reload_page reload_all_tabs reload3 reload gtk-refresh stock_refresh
 view-sort-ascending gtk-sort-ascending
 view-sort-descending gtk-sort-descending
-window-close gtk-close stock_close geany-close-all paint-none gimp-close
+window-close dialog-close gtk-close stock_close geany-close-all paint-none gimp-close
 window-new window_new stock_new-window
 zoom-in gtk-zoom-in stock_zoom-in viewmag+
 zoom-out gtk-zoom-out stock_zoom-out viewmag-
@@ -229,6 +229,7 @@ caffeine xfce4-time-out-plugin
 calibre-gui
 checkbox
 comix
+compton
 computerjanitor bleachbit
 config-users kuser system-config-users susers system-users cs-user-accounts
 ccc_large
@@ -329,6 +330,9 @@ gnumeric webservice-office-zoho-sheet
 gnucash-icon
 google goa-account-google
 googleearth google-earth
+googlehangouts google-hangouts
+googlekeep google-keep
+googleplaymovies google-play-movies
 googleplus google-plus
 google-chrome google-chrome-unstable
 google-chrome2
@@ -356,7 +360,10 @@ jamendo
 jdownloader
 jockey jockey-kde applications-electronics cs-drivers application-x-firmware
 jokosher
-keepassx
+keepassx keepassx2
+keepassxc keepassxc-unlocked
+keepassxc-dark
+keepassxc-locked
 kupfer
 lastfm last-fm lastfm-audioscrobbler as-icon as-powered
 leafpad kate
@@ -399,7 +406,9 @@ nm-stage01-connecting09 nm-stage02-connecting09 nm-stage03-connecting09 nm-vpn-c
 nm-stage01-connecting10 nm-stage02-connecting10 nm-stage03-connecting10 nm-vpn-connecting10
 nm-stage01-connecting11 nm-stage02-connecting11 nm-stage03-connecting11 nm-vpn-connecting11
 nvidia-settings nvidia-current-settings nvidia-ddm-mx
+octave
 onboard
+openrct2
 openttd
 ooo-base ooo-base3.0 openofficeorg3.0-base openofficeorg3-base openofficeorg-base
 ooo-calc ooo-calc24 ooo-calc2 ooo-calc3.0 openofficeorg24-calc openofficeorg3.0-calc openofficeorg3-calc openofficeorg-calc
@@ -442,9 +451,10 @@ preferences-desktop-theme gnome-settings-theme style xfce-ui cs-themes xfce4-app
 preferences-system-bluetooth bluetooth bluetooth-48 bluetoothradio blueman blueradio blueradio-48 bt-logo blueman-device cs-bluetooth
 preferences-system-firewall gufw gufw_menu ufw-frontends firestarter cs-firewall
 preferences-system-windows gnome-window-manager kcmkwm kwin xfwm4 window-manager mate-panel-window-list mate-panel-window-menu cs-windows
-qtassistant assistant assistant-qt4 qdbusviewer
+qtassistant assistant assistant-qt4
 qtdesigner designer QtProject-designer designer-qt4 qt4logo
 qtlinguist linguist linguist-qt4
+qtqdbusviewer qdbusviewer qdbusviewer-qt4
 qtcreator qtcreator_logo_32 qtassistant qtdesigner qtlinguist qdbusviewer-qt4    qtlinguist linguist linguist-qt4 qtdesigner designer QtProject-designer designer-qt4 qt4logo qtassistant assistant assistant-qt4 qdbusviewer
 radiotray
 rhythmbox gmusicbrowser gnome-music
@@ -502,6 +512,7 @@ wine-uninstaller msiexec
 wine-winecfg winecfg
 wine-winetricks winetricks
 wireshark hi48-app-wireshark
+wolfram-mathematica
 wordpress
 workspace-switcher gnome-panel-workspace-switcher xfce4-workspaces mate-panel-workspace-switcher cs-workspaces
 WorldOfGoo
@@ -646,6 +657,7 @@ application-x-flash-video application-x-shockwave-flash gnome-mime-application-x
 application-x-glade gnome-mime-application-x-glade application-x-designer gnome-mime-application-x-designer
 application-x-gzip gnome-mime-application-x-gzip application-x-compressed-tar gnome-mime-application-x-compressed-tar
 application-x-jar application-x-java-archive gnome-mime-application-x-jar gnome-mime-application-x-java-archive
+application-x-julia gnome-mime-application-x-julia
 application-x-ms-dos-executable gnome-mime-application-x-ms-dos-executable gnome-exe-thumbnailer-generic-x
 application-x-msdownload gnome-exe-thumbnailer-template gnome-exe-thumbnailer-generic
 application-x-php gnome-mime-application-x-php
