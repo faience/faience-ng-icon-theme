@@ -332,6 +332,8 @@ gnucash-icon
 google goa-account-google
 googleearth google-earth
 googlehangouts google-hangouts
+googlekeep google-keep
+googleplaymovies google-play-movies
 googleplus google-plus
 google-chrome google-chrome-unstable
 google-chrome2
@@ -450,11 +452,11 @@ preferences-desktop-theme gnome-settings-theme style xfce-ui cs-themes xfce4-app
 preferences-system-bluetooth bluetooth bluetooth-48 bluetoothradio blueman blueradio blueradio-48 bt-logo blueman-device cs-bluetooth
 preferences-system-firewall gufw gufw_menu ufw-frontends firestarter cs-firewall
 preferences-system-windows gnome-window-manager kcmkwm kwin xfwm4 window-manager mate-panel-window-list mate-panel-window-menu cs-windows
-qtassistant assistant assistant-qt4 qdbusviewer
+qtassistant assistant assistant-qt4
 qtdesigner designer QtProject-designer designer-qt4 qt4logo
 qtlinguist linguist linguist-qt4
 qtqdbusviewer qdbusviewer qdbusviewer-qt4
-qtcreator qtcreator_logo_32 qtassistant qtdesigner qtlinguist qdbusviewer-qt4    qtlinguist linguist linguist-qt4 qtdesigner designer QtProject-designer designer-qt4 qt4logo qtassistant assistant assistant-qt4 qdbusviewer
+qtcreator QtProject-qtcreator qtcreator_logo_32 qtassistant qtdesigner qtlinguist qdbusviewer-qt4    qtlinguist linguist linguist-qt4 qtdesigner designer QtProject-designer designer-qt4 qt4logo qtassistant assistant assistant-qt4 qdbusviewer
 radiotray
 rhythmbox gmusicbrowser gnome-music
 screenruler-icon screenruler
